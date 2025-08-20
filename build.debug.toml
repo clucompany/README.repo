@@ -1,0 +1,13 @@
+[date]
+value="Wed Aug 20 07:47:22 PM UTC 2025"
+[image]
+value="debian-alarm-*"
+[machines]
+I_CIRUNODE="0"
+I_CINODE="0"
+I_ARNODE="0"
+I_NETNODE="0"
+V_CIRUNODE="x86_64, 3.8Ghz x8, 12Gb"
+V_CINODE="aarch64, 1.5Ghz x4, 2Gb"
+V_ARNODE="aarch64, 2.2Ghz x2, 1.8Ghz x4, 4Gb"
+V_NETNODE="aarch64, 2.0Ghz x4, 4Gb"
